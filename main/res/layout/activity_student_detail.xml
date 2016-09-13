@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/btv1"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+
+        android:id="@+id/btv2"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+
+        android:id="@+id/btv3"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+
+        android:id="@+id/btv4"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+
+        android:id="@+id/btv5"
+        android:textColor="#00FF00"
+        android:typeface="monospace"
+        android:layout_margin="10dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go Back"
+        android:id="@+id/goback"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#FFF"
+        android:textSize="18sp"
+
+        android:typeface="monospace"
+        android:layout_gravity="center_vertical" />
+
+</LinearLayout>
